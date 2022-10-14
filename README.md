@@ -1,3 +1,3 @@
 # Отчет по тестированию программ на Си и Gas
-Тест 1:![image](https://user-images.githubusercontent.com/108925927/195734574-a34f30df-5a32-41a9-97a3-23db964eda8f.png)
-
+Тест 1:
+![image](https://user-images.githubusercontent.com/108925927/195736204-74c94fcf-dbd9-40a5-bf8b-a318e0c4f77d.png)
